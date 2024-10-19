@@ -1,0 +1,26 @@
+{
+  "name": "Billy Lee",
+  "age": 20,
+  "address": {
+    "street": "Zazam Ridge",
+    "city": "Awovowe",
+    "state": "FL",
+    "zip": "58420"
+  },
+  "contact": {
+    "phone": "(836) 593-8372",
+    "servicePhone": "800612464"
+  },
+  "birthday": "1961-10-18T05:26:50.389Z",
+  "ip": "85.189.169.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Kevutcul riccek jupabur las cevbelefi nihuc pizlaj okad eboduzju ilowap rijda siji fo gaclon timfa ziwepe. Pe tik bicsinmu ara ludmuj hebup nembanpuw lutacu caep emdo dunabni bumgupaj zajustu wudupe wap vatuhfo. Falap sogipeet hacunfiv iviho odwe olodufjo tafuhce ko ti lo porzad akmis.",
+    "bio": "Copu ruhker zimin ahmebjem kewrenpo ne gus soihtom vihizma fumasa hujuk hugtiku uggi ejjut kaj ha. Taf kusop dug doc jozastag nojgebi sisipebu cofinwaz bucbo bolana vuagi to hoc dovi af cemi vit. Vipfoz uloisomok kitku zot lir po dec jevevuki pijpoaw vi lonnop ba on dozgu siczinwec iga. Capureg libgih ha kezew gucni vadwo niv leb kevgerte umaere nur kisoswac. Go toohpo fod hewidel sojlunoj laj gubed vid vag vejil nanma moerepec golgi ahlic ergarzip wud. Ga nossu jebit dirus ejese urjif de rusu bu dew gosmofa nu muruwap nuledvut hus teefonil. Vopa jariwo novfilopu we behucesi gagpucun dolgotdok lijufah ep gul vaunu kizivtad afobipe catsi."
+  },
+  "apiKey": "960a54c53008f85b6ec80069597b017296867dc02f83193addd52e727054619f",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
