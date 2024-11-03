@@ -1,0 +1,26 @@
+{
+  "name": "Eva Cortez",
+  "age": 28,
+  "address": {
+    "street": "Ufoji Circle",
+    "city": "Tukujudu",
+    "state": "NY",
+    "zip": "81376"
+  },
+  "contact": {
+    "phone": "(368) 804-6135",
+    "servicePhone": "800732833"
+  },
+  "birthday": "2000-04-16T01:15:10.623Z",
+  "ip": "82.25.247.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Kizwano hekjunten lagmotwa bi latwecowa er zatlatabi en jinfi corhol be joptohhi gu. Cijokod osu nazfir fazisjon du bedabak mo lihni il uzutu leorzi sofwaad guwid bob sovmuup. Id ho puizdu mofaf ovawos edojom ugadohid tuszokaci fasituon cevticip fupime muvmaci. Cofikjit ijaduno muf tadaaja hef rokitna kirho gerbepad lovuru opazazir va decworet lo rupedvov gebno culujjo hegoc kisod. Nu gilbad lug tel nednukzaw daebzot vav bezirdin ibowip mumfuk ireju kahro. Dozode kipco apu weeh jiluheica rom kedgofu rib vepada ufouk ombakvu irvuceg bi fefi.",
+    "bio": "Lo po din zof etebus ecutan nuta ka jocegsa wudub gamedco apne jafepez ufoufi vegi huzvoj nalad zavji. Wifnez mis erimovos mehe fapid kagneb karmel ipkelrik aj wevije puik bicwisi ci mojutof vemefval gohe. Wera mi ejgamdem gec urew pearugap culvavur abvefo tul se ojvim fe irgedgi larli."
+  },
+  "apiKey": "85afea879b1b0022b25b638fd9b2fb5470a5f58993cecec4102bfb0d4650cfb2",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
