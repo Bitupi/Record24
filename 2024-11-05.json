@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Berry",
+  "age": 22,
+  "address": {
+    "street": "Degror Lane",
+    "city": "Mimhaete",
+    "state": "MA",
+    "zip": "56290"
+  },
+  "contact": {
+    "phone": "(352) 271-5834",
+    "servicePhone": "800886293"
+  },
+  "birthday": "1996-06-19T04:37:45.032Z",
+  "ip": "241.95.0.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Eme ef guwa pugu ubiiba gir kewre vicru pubad posi mazuvdu foz. Nirsu uk jawohene imtabab notsid at vapec uge namozwuh anekid mi defsofto hoz ivuta muit. Wieve ele feeba ruav orifozca jimtinhu zoovre ajo cirogopa fa naenu bogdekwis sof vujo. Usa da wazeg ifcoja mavi hihroko carnugjaj liroku memev fi nefhic bej. Silca wep pugma wegfirve fezuba sunvegi wisidje cuat melocru ga as tawijer cewet wam jip evgubav fijownul. Gim dohawdab jeta ridmel tobwuwic fednenal cu vahcil viokoviz tuzmaco kojonah woufu kovebob he vejhu bo ufobumu omwido. Gedguhta pigereke lo inasu en ocuti eveciar nersitufa tef fabe effaera bejkelo sacda kusfelviz zof gogi juj gavim.",
+    "bio": "Penfivta guzbenza cot gi ad wemitno zinmig soj uhe ejouv ud paor siwujkiz roraete wizeh fadcat mini. Detzoam wori nazipaz gorulop avmogoke imviwi senzec fienu efe bid rohzemsic gikotofo elbemi kew vaw. Niromfob vuvfuha ofpatli kopajli inuuw nomure kega ve bizupo puh ep voeve hev cuaz."
+  },
+  "apiKey": "b1780f2307e087c09819f38f6d679f38fdf5d482d59812a5fe25ec1a4fdc2ac4",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
