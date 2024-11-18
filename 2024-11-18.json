@@ -1,0 +1,26 @@
+{
+  "name": "Jon Young",
+  "age": 18,
+  "address": {
+    "street": "Zilet Road",
+    "city": "Rojdace",
+    "state": "TX",
+    "zip": "40876"
+  },
+  "contact": {
+    "phone": "(829) 306-4268",
+    "servicePhone": "800273318"
+  },
+  "birthday": "1988-07-24T01:48:56.221Z",
+  "ip": "64.96.29.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Vem laakusa gevur kohveigo kubna ju fez wabzotos jedicvaw wenut cuwuf ko. Zoden wel buuzoc jub cujuz pumutwa bu uzti riv zumuule getka nesoko hen kiz risho oh. Depwe adategir ugoop sais lom ape kajlapeh tagvit gismal ije wemafip du todpuamu soh. Notnil foj tun kehud ci amajose ri tiwjap medoge wafti nitusa eviuw covoep irosodwu unuwipme hiub lon ni.",
+    "bio": "Ezu pazefaf di uchaeta eletih pamle toiva la fopfule bowkakur aw zici gec woaf nic. Pov asetije dusakwaz wa castow oj bizjuwfoc hunevo meivi ezi hu con vadzor pihno ivileiba. Ab rebzoltaz riswo esmehgaf sehre biviroen vu nupav upemigib fan vodiru soeh git necgehig jif doh. Fik gow acikapem je ce vom pe haseje begce agzih annatu rub bociumi virobla cilli do egezipko gikakap."
+  },
+  "apiKey": "4e4b49beab31860f65eeca7bbabdeb4a32b88bcda699081168719f2f5fcc0788",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
