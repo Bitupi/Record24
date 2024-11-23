@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Greer",
+  "age": 36,
+  "address": {
+    "street": "Idda Court",
+    "city": "Nuwaiba",
+    "state": "VT",
+    "zip": "74266"
+  },
+  "contact": {
+    "phone": "(972) 948-4646",
+    "servicePhone": "800689179"
+  },
+  "birthday": "1966-06-29T07:35:08.471Z",
+  "ip": "115.179.104.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Puzumak hebav otujil kefhaka hehzam jiojato ji ed umiva isuneh gufehiv bekuf. Pak ti sozijaz pa tikager pagfuit rizno adpi vetu iluri katfodec ufge ireigwu pevcah ib. Noemasu iraje mipi fohum dur kamamsoj se tozaz soajouc na fofgahegi api segos et ina ve uri zanaata.",
+    "bio": "Ikbulne as ve izuc va hoob cijzimsuv at nutwem tiacle batdalhi fesliref zut jazu. Pavto himdaid uk se zi uwna dakube boksamfu hirudopo uvowi ci wik ni ugtajhe riw amozer. Paipdad uglolu sewcecod veruuro rubi ropa eb kic janipbun pereg zibu futolaje lac solnos buvo newuwo zugo vac. Kukozu suba hubep ok jehugev sezca jiwdib ki ge ko edeho zigjulow avojur fosemili robavu eco atzemgam pihve."
+  },
+  "apiKey": "bd823df978537c8b56d43853a2b674275dbff27ac5ab4dfde48061314dce931d",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
