@@ -1,0 +1,26 @@
+{
+  "name": "Ola Rowe",
+  "age": 22,
+  "address": {
+    "street": "Cupe Terrace",
+    "city": "Ihukane",
+    "state": "FL",
+    "zip": "35277"
+  },
+  "contact": {
+    "phone": "(910) 968-3783",
+    "servicePhone": "800453433"
+  },
+  "birthday": "2003-04-05T07:45:03.547Z",
+  "ip": "203.139.234.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiwemu egsa ezihatad ivjamfa ocbiape jaf cagel fusap wo gegudu ba kitik figamtiv. Kubcabi obwa mirdieg boloza haweh foibusen bova ojo taluhfiw ra netof mabbuken ijru ki. Kaf miehihip wigbi jahih casusur di muh sorpumuw osakezas tip ipgi cuga ihhogem dopmowzod vir. Ja cujif zed lonlo ro guwiw sipabin orepup ho wi jabuput lizek cerev ruhigce fosur mo.",
+    "bio": "Liupujo opeamoasa rerokfu ic wurdoc racma cavoz ulcoc gi ic mufofso ersu la noc gohulki me he. Piib cih upgic udi cal kej dac ikiweza ho nusamni ej wo hijjej udorelwac uvdesin pa likepok ecesucas. Ceccohob nuke romsa lebiec hesgehel ocirogu imedewid cuja he bi ifvat jabve rugudfug wowozhuz."
+  },
+  "apiKey": "4fa938c82597414d3779186b302959f0651e91125a433d2a88f843af802f4790",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
