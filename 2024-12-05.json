@@ -1,0 +1,26 @@
+{
+  "name": "Justin Ford",
+  "age": 52,
+  "address": {
+    "street": "Regga Terrace",
+    "city": "Sebamco",
+    "state": "HI",
+    "zip": "96453"
+  },
+  "contact": {
+    "phone": "(683) 617-9705",
+    "servicePhone": "800299831"
+  },
+  "birthday": "1971-05-11T11:57:01.359Z",
+  "ip": "96.50.237.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruod iwepi cuhpo ti fakof ajo cerzojowi volici eza mu nugas udvot vejoroto vellim gefmiwaf wehtar me. Avi teopku lo ve us ze otlol timwecmid topheg jom icenacnib uzhaco mefoaz. Efa deltopefa zuzokila teej bav hoer kalo kifmip wusu zej fot puc uho mi tuzataba ziko.",
+    "bio": "Cega unezi bu ga kokbejlon nifaj tu vibtimwo fo ij aduteka agmecur gice keno eku rob pujuso sanbor. Daud uda savogoba atgudtar fa saefole ju gechi gaj fu jamab ujewuuba vike lenboper. Ozunawcuw ja inefumno tahi un jererov zi dafnalih zovahmik wi waj jo lunmo. Ego evelo biuvgo tumkov wuwi faslokwe zafwi vif fogihide kizaso gife tahhahi se bazpifu ob cugkuttih oreuphah. Zawzeg zul zaukivoc foppaj hi zumuf nozolov as buse juj zosafrad aw calmo. Tiduaki takudkum nowfulebo fu lucimkal rejwi coufo jouv gameri fibadte ne hawfubaw advuhkip ihitoaz di luj dokop."
+  },
+  "apiKey": "1d108bd1e1bdf40799a90cb259f891f46ccc4bb05bbfe4f2b92767eb1d64cae1",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
